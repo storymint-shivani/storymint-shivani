@@ -84,13 +84,6 @@
 
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
-</div>
-
 ---
 
 ## ❤️ Support Me
